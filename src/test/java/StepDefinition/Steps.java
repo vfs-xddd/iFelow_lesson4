@@ -8,6 +8,7 @@ import org.junit.jupiter.api.DisplayName;
 import java.text.DecimalFormat;
 import java.util.Locale;
 
+
 public class Steps {
     int a;
     int b;
